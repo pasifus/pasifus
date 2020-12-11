@@ -12,6 +12,6 @@ const pasifus = {
     misc: ["webrtc", "rtsp", "firebase", "openCV", "openVINO"],
     hardware: ["SPI", "UART", "I2C", "GPIO", "JTAG"]
   },
-  projects: [fortamento.com]
+  projects: ["fortamento.com"]
 }
 ```
