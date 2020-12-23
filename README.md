@@ -1,4 +1,4 @@
-### I’m solve interesting technology problems 🤔
+### Solve Technology Problems 🤔
 
 ```javascript
 const pasifus = {
