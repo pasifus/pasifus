@@ -4,7 +4,7 @@
 const pasifus = {
   pronouns: "He" | "Him",
   code: ["C/C++", "GO", "Python", "Typescript"],
-  askMeAbout: ["server", "embedded", "web dev", "app dev", "cross-platform", "security", "tech"],
+  askMeAbout: ["server", "embedded", "web dev", "app dev", "cross-platform", "security", "algo-trading"],
   technologies: {
     mobileApp: ["Apple App"],
     devOps: ["Docker", "Kubernetes", "Terraform", "Microservice", "AWS", "Google Cloud", "Network Security"],
